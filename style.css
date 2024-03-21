@@ -1,0 +1,47 @@
+.boxMenu{
+    height: 400px;
+    border: 3px solid #f4473a;
+    border-radius: 10px;
+    background-color: white;
+    /* background: linear-gradient(rgb(230, 55, 55), rgb(109, 84, 84)) padding-box, linear-gradient(90deg, #4e1dde, #eb2ce4) border-box; */
+    background: linear-gradient(#064a5a, #79faef) padding-box;
+}
+
+.table-striped{
+    background-color: white;
+}
+
+body{
+    background-image: url(./img/Progetto\ senza\ titolo\ \(18\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+:root{
+    --color-P:#79faef;
+    --color-S:#064a5a;
+    --color-A:#f8b591;
+    --color-B:#f4473a;
+
+}
+
+.btn{
+    color: white;
+    background-color: #f4473a;
+}
+
+.txttitle{
+    color: #f8b591;
+    text-shadow: 2px 2px #f4473a;
+}
+
+.txt2{
+    color: #f8b591;
+    text-shadow: 1px 1px #f4473a;
+}
+
+.txt3{
+    color: #f8b591;
+}
+
